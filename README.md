@@ -1,2 +1,3 @@
 # Safe-Haven-DPIA
 A DPI assessment for Safe Haven's automated recruitment system project.
+Conducted a DPIA assessment to evaluate the privacy risks associated with a system's personal data handling and assess the effectiveness of the measures implemented to mitigate these risks. The project was on a fictitious company called Safe Haven Solutions which developed an automated recruitment system designed to streamline the hiring process by collecting, processing, and storing personal data from various sources, including job applicants, third-party job boards, social media, and background check services using machine learning.
